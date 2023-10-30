@@ -1,0 +1,57 @@
+.home-icon-light {
+    color: rgba(50,50,50,1); 
+    transition: color 0.5s ease; 
+    cursor: pointer;
+  }
+  
+  .home-icon-light:hover {
+    color: rgb(0, 200, 0 ,1);
+  }
+
+  .home-icon-dark{
+    color:rgba(200,200,200,1);
+    transition: color 0.5s ease; 
+    cursor: pointer;
+  }
+
+  .home-icon-dark:hover {
+    color: rgb(0, 200, 0 ,1);
+  }
+
+  .logout-icon-light {
+    color: rgba(50,50,50,1); 
+    transition: color 0.5s ease; 
+  }
+  
+  .logout-icon-light:hover {
+    color: rgba(255,0,0,1);
+  }
+
+  .logout-icon-dark{
+    color:rgba(200,200,200,1);
+    transition: color 0.5s ease; 
+    cursor: pointer;
+  }
+
+  .logout-icon-dark:hover{
+    color: rgba(255,0,0,1);
+  }
+ 
+  .hamburger-icon {
+    color: #333; 
+    font-size: larger;
+    transition: color 0.5s ease;
+  }
+  
+  .hamburger-icon:hover {
+    color: rgba(0,200,0,1); 
+  }
+
+  .brightness-contrast {
+    color:black;
+    transition: color 0.5s ease;
+  }
+
+  .brightness-contrast:hover {
+    color:rgb(255, 175, 0);
+  }
